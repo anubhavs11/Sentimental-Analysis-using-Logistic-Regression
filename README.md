@@ -35,7 +35,7 @@ Twitter is an American online news and social networking service on which users 
   </ul>
   
   ## Result
-  <img src="images/sentiment.png" alt="sentiment result"> </img>
+  <img src="images/sentiments.png" > </img>
   
   ## Applications
   <ul>
